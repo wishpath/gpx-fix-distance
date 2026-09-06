@@ -1,0 +1,11 @@
+future_development:
+  - pace goes ~4:11 in Strava, but printed ~4.19 in this app (fraction of minutes, not seconds
+  - enrich added PointDto with elevation (take from real-world data)
+  - consider GAP (grade-adjusted pace)
+  - what metadata can i add
+
+useful_strings:
+  - Original file was somewhat corrupt, so I took time to correct it using Java code. This is a test upload.
+  - half_marathon_Vilnius_Marathon_2013_PB_FIXED.gpx
+  - C:\projects\gps-fix\src\main\java\org\sa\storage\output\half_marathon_Vilnius_Marathon_2013_PB_FIXED.gpx
+  - C:\projects\gps-fix\src\main\java\org\sa\storage\output
