@@ -1,5 +1,4 @@
 future_development:
-  - pace goes ~4:11 in Strava, but printed ~4.19 in this app (fraction of minutes, not seconds
   - enrich added PointDto with elevation (take from real-world data)
   - consider GAP (grade-adjusted pace)
   - what metadata can i add
