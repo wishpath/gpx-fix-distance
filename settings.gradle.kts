@@ -1,2 +1,2 @@
-rootProject.name = "gps-fix"
+rootProject.name = "gps-fix-distance"
 
