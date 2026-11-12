@@ -1,4 +1,4 @@
-# GPS Fix
+# gps-fix-distance
 
 ## What it does
 * Adds up to 500m to a track.
